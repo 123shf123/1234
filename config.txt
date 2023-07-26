@@ -23,6 +23,6 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "有一个菠萝去理发店他坐了很久理发师也一直没给他理发，菠萝就说：你理理我呀你理理我呀",
 # 金句英文
-"note_en": "Logic will get you from A to B. Imagination will take you everywhere",
-逻辑会带你从A点到达B点，想象力将把你带到任何地方"
+"note_en": "Logic will get you from A to B. Imagination will take you everywhere
+逻辑会带你从A点到达B点，想象力将把你带到任何地方",
 }
